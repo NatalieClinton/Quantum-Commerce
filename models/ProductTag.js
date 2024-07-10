@@ -6,7 +6,7 @@ class ProductTag extends Model {}
 
 ProductTag.init(
   {
-    // define columns
+    // DEFINES COLUMNS 
     id: {
       type: DataTypes.INTEGER,
       allowNull: false,
@@ -37,4 +37,5 @@ ProductTag.init(
   }
 );
 
+// EXPORT MODELS
 module.exports = ProductTag;

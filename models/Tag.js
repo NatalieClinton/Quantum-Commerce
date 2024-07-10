@@ -6,7 +6,7 @@ class Tag extends Model {}
 
 Tag.init(
   {
-    // define columns
+    // DEFINES COLUMNS
     id: {
       type: DataTypes.INTEGER,
       allowNull: false,
@@ -26,4 +26,5 @@ Tag.init(
   }
 );
 
+// EXPORT MODELS
 module.exports = Tag;

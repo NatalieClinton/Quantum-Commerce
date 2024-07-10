@@ -6,7 +6,7 @@ class Category extends Model {}
 
 Category.init(
   {
-    // define columns
+    // DEFINED COLUMNS
     id: {
       type: DataTypes.INTEGER,
       allowNull: false,
@@ -27,4 +27,5 @@ Category.init(
   }
 );
 
+// EXPORT MODELS
 module.exports = Category;
