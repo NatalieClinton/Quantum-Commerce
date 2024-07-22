@@ -12,16 +12,15 @@ This project implements an Express.js API with Sequelize to manage the back end 
 - [Walkthrough Video](#walkthrough-video)
 - [Contact](#contact)
 
-
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/NatalieClinton/Quantum-Commerce.git>
    ```
 2. Navigate into the project directory:
    ```bash
-   cd <project-directory>
+   cd <Documents/Quantum-Commerce>
    ```
 3. Install the dependencies:
    ```bash
@@ -71,8 +70,8 @@ This project implements an Express.js API with Sequelize to manage the back end 
 Watch the Walkthrough Video(https://drive.google.com/)    
 
 ## Contact
-For any questions or feedback regarding this project, feel free to reach out:
+For any questions or feedback regarding this project, feel free to reach out to me using the following links:
 
-- [natalie.clinton@hotmail.com](mailto:natalie.clinton@hotmail.com)
+- [Email](mailto:natalie.clinton@hotmail.com)
 - [GitHub](https://github.com/NatalieClinton)
 - [LinkedIn](https://www.linkedin.com/in/natalie-clinton-892b42152/)
