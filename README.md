@@ -67,7 +67,7 @@ This project implements an Express.js API with Sequelize to manage the back end 
 - **dotenv**
 
 ## Walkthrough Video
-Watch the Walkthrough Video(https://drive.google.com/)    
+Watch the Walkthrough Video(https://1drv.ms/v/s!Aou5GeHwI5dtk1owYLs_CEJQbxHo?e=9IknJc)    
 
 ## Contact
 For any questions or feedback regarding this project, feel free to reach out to me using the following links:
